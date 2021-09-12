@@ -29,6 +29,12 @@ jobs:
       run: |
         cd client
         npm install
+
+    - name: Run Client Lint
+      run: |
+        cd client
+        npm run lint
+
     - name: Build client app
       run: |
         cd client
