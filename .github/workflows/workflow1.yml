@@ -23,3 +23,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo 'The triggering workflow2'
+  
+  trigger1:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo 'The trigger1 job completed'
