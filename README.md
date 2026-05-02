@@ -1,2 +1,2 @@
 # qn-wepp-app
-React JS App and NodeJs server
+Sample of React JS App and NodeJs server
